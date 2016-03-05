@@ -175,7 +175,7 @@ You can require the original class and extend it.
     
 ## Contribution and Issues ##
 
-Pull requests are welcome. I am trying to keep this a very light weight framework, so that is the philosophy to bare in mind. 
+Pull requests are welcome. I am trying to keep this a very light weight framework, so that is the philosophy to bear in mind. 
 
 Any help with documentation or annotation of templates is also very much appreciated. 
 
