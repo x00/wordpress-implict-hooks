@@ -9,9 +9,9 @@ class PluginPrefixPluggable extends ImplicitHooksPluggable {}
 class PluginPrefixHooks extends ImplicitHooks {}
 
 PluginPrefixHooks::load(
-    'plugin-folder',
-    PLUGIN_PATH,
-    'config',
-    'hooks',
-    'PluginPrefix'
+	'plugin-folder',
+	PLUGIN_PATH,
+	'config',
+	'hooks',
+	'PluginPrefix'
 );

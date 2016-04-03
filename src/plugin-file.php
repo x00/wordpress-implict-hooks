@@ -11,5 +11,4 @@ License: [licence here]
 Text Domain: plugin-folder
 Languages: /languages
 */
-
 require plugin_dir_path( __FILE__ ) . 'plugin-folder-loader.php';
